@@ -1,5 +1,11 @@
 # Spring Boot CRaC + gRPC example
 
+### Run application with the following VM option enabled
+
+```
+-XX:CRaCCheckpointTo=cr
+```
+
 ### Java version
 
 ```
